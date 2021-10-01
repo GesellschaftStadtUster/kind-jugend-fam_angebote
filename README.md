@@ -10,7 +10,7 @@
 
 ### Datenstruktur
 
-**daten_kulturfoerderung_uster.csv:**
+**angebote_kjf_uster.csv:**
 
 | **Field Name**        | **Description**                                | **Format**     |
 |---------------------|--------------------------------------------|------------|
