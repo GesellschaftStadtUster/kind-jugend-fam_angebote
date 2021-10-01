@@ -23,11 +23,46 @@
 | **plz**     | Postleitzahl (falls vorhanden) | String |
 | **ort**       | Ort (falls vorhanden) | String |
 | **anlage**       | Zugehörigkeit zu einer Anlage mit mehreren Angeboten (falls vorhanden) | String |
-| **kategorie**       | Kategorie des Angebots  | String |
-| **zugaenglichkeit**       | Zugänglichkeitsregeln  | String |
+| **kategorie**       | Kategorie des Angebots (falls vorhanden,  siehe Ausführungen unten) | String |
+| **zugaenglichkeit**       | Zugänglichkeit (falls vorhanden, siehe Ausführungen unten) | String |
 | **beschreibung**       | Beschreibung (falls vorhanden)  | String |
 | **webseite**       | Webseite (falls vorhanden)  | String |
 
+*Kategorien:*
+* *Sportanlage: Bäder*
+* *Sportanlage: Badmintonanlagen*
+* *Sportanlage: Dreifachturnhallen*
+* *Sportanlage: Einfachturnhallen*
+* Sportanlage: Fussballplätze*
+* *Sportanlage: Hartplätze (Asphalt)*
+* *Sportanlage: Laufstrecken*
+* *Sportanlage: Leichtathletikanlagen*
+* *Sportanlage: Spielwiesen*
+* *Sportanlage: Squashanlagen*
+* *Sportanlage: Tennisanlagen*
+* *Sportanlage: Trendsportanlagen*
+* *Kinderbetreuung: FEB-Kita*
+* *Kinderbetreuung: nicht-FEB-Kita*
+* *Kinderbetreuung: Schulhort*
+* *Kinderbetreuung: Spielgruppe*
+* *Freizeitanlage: Spielplatz*
+* *Freizeitanlage: Gemeinschaftszentrum*
+* *Freizeitanlage: Bibliothek/Ludothek*
+* *Schule: Kindergarten*
+* *Schule: Primarschule*
+* *Schule: Sekundarschule*
+* *Schule: Berufsschule*
+* *Schule: Kantonsschule*
+* *Schule: Erwachsenenbildung*
+* *Anlaufstelle: Kindheit, Jugend und Familie*
+* *Anlaufstelle: Sozialberatung*
+* *Anlaufstelle: Asyl- und Flüchtlingskoordination*
+
+*Optionen Zugänglichkeit:*
+* *öffentlicher Raum (resp. vergleichbare Zugänglichkeit)*
+* *halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit)*
+* *nicht-öffentlicher Raum*
+* *Räumlichkeiten*
 
 
 ## Englisch
