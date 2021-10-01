@@ -33,7 +33,7 @@
 * *Sportanlage: Badmintonanlagen*
 * *Sportanlage: Dreifachturnhallen*
 * *Sportanlage: Einfachturnhallen*
-* Sportanlage: Fussballplätze*
+* *Sportanlage: Fussballplätze*
 * *Sportanlage: Hartplätze (Asphalt)*
 * *Sportanlage: Laufstrecken*
 * *Sportanlage: Leichtathletikanlagen*
