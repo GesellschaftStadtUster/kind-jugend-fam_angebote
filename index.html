@@ -67,7 +67,7 @@
     for (var i in data) {
       var row = data[i];
 
-      var marker = L.marker([row.x, row.y], {
+      var marker = L.marker([row.y, row.x], {
         opacity: 1
       }).bindPopup(row.name);
       
