@@ -60,14 +60,14 @@
     $.get('./angebote_kjf_uster.csv', function(csvString) {
 
     // Use PapaParse to convert string to array of objects
-    var data = Papa.parse(csvString, {header: true, dynamicTyping: true}).angebote_kjf_uster;
+    var data = Papa.parse(csvString, {header: true, dynamicTyping: true}).data;
 
     // For each row in data, create a marker and add it to the map
     // For each row, columns `Latitude`, `Longitude`, and `Title` are required
     for (var i in data) {
       var row = data[i];
 
-      var marker = L.marker([row.y, row.x], {
+      var marker = L.marker([row.x, row.y], {
         opacity: 1
       }).bindPopup(row.name);
       
