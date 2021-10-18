@@ -71,5 +71,4 @@
 * The data can also be found on the webgis of the city of Uster under LINK.
 
 ### Files
-* The table with all entries is stored under the following name: [angebote_kjf_uster.csv](https://github.com/GesellschaftStadtUster/kind-jugend-fam_angebote
-/blob/main/angebote_kjf_uster.csv)
+* The table with all entries is stored under the following name: [angebote_kjf_uster.csv](https://github.com/GesellschaftStadtUster/kind-jugend-fam_angebote/blob/main/angebote_kjf_uster.csv)
