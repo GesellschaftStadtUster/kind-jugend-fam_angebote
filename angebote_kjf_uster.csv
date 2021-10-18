@@ -1,4 +1,4 @@
-﻿X,Y,name,strasse,hausnr,plz,ort,anlage,kategorie,zugaenglichkeit,beschreibung,website
+﻿lng,lat,name,strasse,hausnr,plz,ort,anlage,kategorie,zugaenglichkeit,beschreibung,website
 8.69222440769125,47.3691747592913,Schulhäuser Nänikon,Baumgartenweg,6,8606,Nänikon,Schulanlage Singvogel,Schule: Primarschule,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/de/bildung/primarschule/primarschulhaus/?action=showschule&schule_id=505
 8.69317912111505,47.368783782418,Klairs - Näniker Vereinslokal,Bühlstrasse,16,8606,Nänikon,,Freizeitanlage: Gemeinschaftszentrum,Räumlichkeiten,,http://klairs.ch/
 8.6915060038085,47.3689163232639,Kindergarten Vogelsang,Bühlweg,10,8606,Nänikon,,Schule: Kindergarten,nicht-öffentlicher Raum,,http://www.uster.ch/de/bildung/primarschule/kindergarten/?action=showschule&schule_id=361
@@ -144,11 +144,7 @@
 8.72122154419987,47.3476339856719,Schulanlage Freiestrasse,,,,,,Sportanlage: Einfachturnhallen,Räumlichkeiten,,http://www.uster.ch/anlagen/9532
 8.72462084808604,47.3597223441937,Leichtathletik-Anlage Buchholz,,,,,Sportanlage Buchholz,Sportanlage: Leichtathletikanlagen,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/anlagen/1414
 8.7141609519349,47.3489679468378,Landihalle,,,,,,Sportanlage: Einfachturnhallen,Räumlichkeiten,,http://www.uster.ch/anlagen/11779
-0,0,Helsana Trail (grün),,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,https://www.helsana.ch/de/private/vorteile/gesundheitsfoerderung/helsana-trails/standorte
-0,0,Helsana Trail (gelb),,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,https://www.helsana.ch/de/private/vorteile/gesundheitsfoerderung/helsana-trails/standorte
-0,0,Helsana Trail (blau),,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,https://www.helsana.ch/de/private/vorteile/gesundheitsfoerderung/helsana-trails/standorte
 8.726461508492,47.3595340126291,Hallenbad,,,,,Sportanlage Buchholz,Sportanlage: Bäder,Räumlichkeiten,,http://www.uster.ch/anlagen/9526
 8.7268334156465,47.3440868866482,Fussballanlage Heusser-Staub,,,,,,Sportanlage: Fussballplätze,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/anlagen/9845
-0,0,Finnenbahn Buchholz,,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,http://www.uster.ch/anlagen/1414
 8.72121469544789,47.3467592938868,Dorfbad,,,,,,Sportanlage: Bäder,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/anlagen/1412
 8.72548841549436,47.3587352310291,Badmintonhalle Blue Shuttle,,,,,Sportanlage Buchholz,Sportanlage: Badmintonanlagen,Räumlichkeiten,,http://www.bluepoint.ch/
