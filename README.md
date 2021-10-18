@@ -14,8 +14,8 @@
 
 | **Field Name**        | **Description**                                | **Format**     |
 |---------------------|--------------------------------------------|------------|
-| **x**              | Longitude / Längengrad (0 falls nicht Punktgeometrie) | Number |
-| **y**              | Latitude / Breitengrad (0 falls nicht Punktgeometrie) | Number |
+| **lng**              | Longitude / Längengrad | Number |
+| **lat**              | Latitude / Breitengrad | Number |
 | **name**              | Bezeichnung des Angebots | String |
 | **strasse**              | Strassenname (falls vorhanden) | String |
 | **hausnr** | Hausnummer (falls vorhanden) | String |
