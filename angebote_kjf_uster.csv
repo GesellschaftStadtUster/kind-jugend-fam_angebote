@@ -1,4 +1,4 @@
-﻿X,Y,name,strasse,hausnr,plz,ort,anlage,kategorie,zugaenglichkeit,beschreibung,website
+﻿lng,lat,name,strasse,hausnr,plz,ort,anlage,kategorie,zugaenglichkeit,beschreibung,website
 8.69222388386275,47.3691752535954,Schulhäuser Nänikon,Baumgartenweg,6,8606,Nänikon,Schulanlage Singvogel,Schule: Primarschule,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/de/bildung/primarschule/primarschulhaus/?action=showschule&schule_id=505
 8.69317859729755,47.3687842767272,Klairs - Näniker Vereinslokal,Bühlstrasse,16,8606,Nänikon,,Freizeitanlage: Gemeinschaftszentrum,Räumlichkeiten,,http://klairs.ch/
 8.69150547997719,47.3689168175653,Kindergarten Vogelsang,Bühlweg,10,8606,Nänikon,,Schule: Kindergarten,nicht-öffentlicher Raum,,http://www.uster.ch/de/bildung/primarschule/kindergarten/?action=showschule&schule_id=361
@@ -113,7 +113,6 @@
 8.6920845764877,47.3686823028263,"Spielplatz Bühl, Nänikon (Singvogel)",,,,,Schulanlage Singvogel,Freizeitanlage: Spielplatz,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),"Gegenüber vom Spielplatz Singvogel befindet sich der wunderschöne Spielplatz Bühl. Der Spielplatz bietet eine Rutsche, einen Sandplatz und einen Brunnen zum Spielen, eine Schaukel und einen Tunnel. Die Bäume um den Spielplatz herum spenden Schatten über den Spielbereich und die Sitzbank. ",
 8.72594248508316,47.359986504582,Spielplatz Buchholz,,,,,Sportanlage Buchholz,Freizeitanlage: Spielplatz,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),"Neben unzähligen Sportangeboten bietet das Buchholz auch einen kleinen Spielplatz. Es hat ein Kletterflugzeug mit einer integrierter, steilen Rutsche und ein kleines Klettergerüst auf sandigem Untergrund. Ein Picknicktisch bietet die Möglichkeit, etwas zur Ruhe zu kommen. ",
 8.72468848523023,47.3445365046019,Abenteuerspielplatz Holzwurm,,,,,,Freizeitanlage: Gemeinschaftszentrum,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),"Der grosse und wilde Abenteuerspielplatz Holzwurm bietet viel Spass und Abwechslung. Auf dem grossen Areal können sich Kinder nach Lust und Laune austoben. Sie können Hütten bauen, mit Metall experimentieren oder durch Drachen klettern. Zudem können sie mit Sand und Wasser spielen oder mit Freunden und Familie am Feuer bräteln und noch vieles mehr. ",
-0,0,Vitaparcour,,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,https://www.zurichvitaparcours.ch/
 8.72593753970709,47.3608404365298,Trendsportplatz Buchholz,,,,,Sportanlage Buchholz,Sportanlage: Trendsportanlagen,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/de/sportkultur/sportn/anlagen/welcome.php?action=showobject&object_id=1414
 8.72575750697767,47.3582935618341,Tennishalle Blue Point,,,,,Sportanlage Buchholz,Sportanlage: Tennisanlagen,Räumlichkeiten,,http://www.bluepoint.ch/
 8.69197677097353,47.3412884013142,Strandbad,,,,,,Sportanlage: Bäder,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/anlagen/1411
@@ -146,11 +145,7 @@
 8.72122102080126,47.3476344801506,Schulanlage Freiestrasse,,,,,,Sportanlage: Einfachturnhallen,Räumlichkeiten,,http://www.uster.ch/anlagen/9532
 8.72462032459332,47.3597228386643,Leichtathletik-Anlage Buchholz,,,,,Sportanlage Buchholz,Sportanlage: Leichtathletikanlagen,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/anlagen/1414
 8.71416042847032,47.3489684412817,Landihalle,,,,,,Sportanlage: Einfachturnhallen,Räumlichkeiten,,http://www.uster.ch/anlagen/11779
-0,0,Helsana Trail (grün),,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,https://www.helsana.ch/de/private/vorteile/gesundheitsfoerderung/helsana-trails/standorte
-0,0,Helsana Trail (gelb),,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,https://www.helsana.ch/de/private/vorteile/gesundheitsfoerderung/helsana-trails/standorte
-0,0,Helsana Trail (blau),,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,https://www.helsana.ch/de/private/vorteile/gesundheitsfoerderung/helsana-trails/standorte
 8.72646098501491,47.3595345071085,Hallenbad,,,,,Sportanlage Buchholz,Sportanlage: Bäder,Räumlichkeiten,,http://www.uster.ch/anlagen/9526
 8.72683289232492,47.3440873811594,Fussballanlage Heusser-Staub,,,,,,Sportanlage: Fussballplätze,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/anlagen/9845
-0,0,Finnenbahn Buchholz,,,,,Sportanlage Buchholz,Sportanlage: Laufstrecken,öffentlicher Raum (resp. vergleichbare Zugänglichkeit),,http://www.uster.ch/anlagen/1414
 8.72121417205788,47.3467597883671,Dorfbad,,,,,,Sportanlage: Bäder,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/anlagen/1412
 8.72548789201789,47.3587357255056,Badmintonhalle Blue Shuttle,,,,,Sportanlage Buchholz,Sportanlage: Badmintonanlagen,Räumlichkeiten,,http://www.bluepoint.ch/
