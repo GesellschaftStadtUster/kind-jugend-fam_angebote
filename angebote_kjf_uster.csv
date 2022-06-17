@@ -1,4 +1,4 @@
-﻿X,Y,name,strasse,hausnr,plz,ort,anlage,kategorie,zugaenglichkeit,beschreibung,website
+lng,lat,name,strasse,hausnr,plz,ort,anlage,kategorie,zugaenglichkeit,beschreibung,website
 8.69222388386275,47.3691752535954,Schulhäuser Nänikon,Baumgartenweg,"6","8606",Nänikon,Schulanlage Singvogel,Schule: Primarschule,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/de/bildung/primarschule/primarschulhaus/?action=showschule&schule_id=505
 8.69317859729755,47.3687842767272,Klairs - Näniker Vereinslokal,Bühlstrasse,"16","8606",Nänikon,,Freizeitanlage: Gemeinschaftszentrum,Räumlichkeiten,,http://klairs.ch/
 8.69150547997719,47.3689168175653,Kindergarten Vogelsang,Bühlweg,"10","8606",Nänikon,,Schule: Kindergarten,nicht-öffentlicher Raum,,http://www.uster.ch/de/bildung/primarschule/kindergarten/?action=showschule&schule_id=361
