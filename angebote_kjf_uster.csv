@@ -1,4 +1,4 @@
-﻿lng,lat,name,strasse,hausnr,plz,ort,anlage,kategorie,zugaenglichkeit,beschreibung,website
+﻿X,Y,name,strasse,hausnr,plz,ort,anlage,kategorie,zugaenglichkeit,beschreibung,website
 8.69222388386275,47.3691752535954,Schulhäuser Nänikon,Baumgartenweg,"6","8606",Nänikon,Schulanlage Singvogel,Schule: Primarschule,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/de/bildung/primarschule/primarschulhaus/?action=showschule&schule_id=505
 8.69317859729755,47.3687842767272,Klairs - Näniker Vereinslokal,Bühlstrasse,"16","8606",Nänikon,,Freizeitanlage: Gemeinschaftszentrum,Räumlichkeiten,,http://klairs.ch/
 8.69150547997719,47.3689168175653,Kindergarten Vogelsang,Bühlweg,"10","8606",Nänikon,,Schule: Kindergarten,nicht-öffentlicher Raum,,http://www.uster.ch/de/bildung/primarschule/kindergarten/?action=showschule&schule_id=361
@@ -66,7 +66,6 @@
 8.7167373961102,47.3468474815918,Elterntreffpunkt Familienzentrum,Zentralstrasse,"32","8610",Uster,Familienzentrum,Freizeitanlage: Gemeinschaftszentrum,Räumlichkeiten,,
 8.7167373961102,47.3468474815918,Familienzentrum Uster,Zentralstrasse,"32","8610",Uster,Familienzentrum,"Anlaufstelle: Kindheit, Jugend und Familie",Räumlichkeiten,,https://familienzentrum-uster.ch/
 8.7167373961102,47.3468474815918,Spielgruppe Lindos Matices,Zentralstrasse,"32","8610",Uster,Familienzentrum,Kinderbetreuung: Spielgruppe,Räumlichkeiten,,www.familienzentrum-uster.ch/angebote-leistungen/spanisch-fuer-kinder-los-colores-de-mi-tierra/
-8.7167373961102,47.3468474815918,Spielgruppe Traumland,Zentralstrasse,"32","8610",Uster,,Kinderbetreuung: Spielgruppe,Räumlichkeiten,,www.familienzentrum-uster.ch/angebote-leistungen/spielgruppe-traumland/ 
 8.71658913593792,47.3465177644361,Krippe Mary Poppins,Zentralstrasse,"36","8610",Uster,,Kinderbetreuung: nicht-FEB-Kita,Räumlichkeiten,,
 8.71370909493387,47.349606855483,Schulhaus Pünt,Zürichstrasse,"11","8610",Uster,Schulanlage Pünt,Schule: Primarschule,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/de/bildung/primarschule/primarschulhaus/?action=showschule&schule_id=510
 8.71370909493387,47.349606855483,Kindergarten Pünt,Zürichstrasse,"11","8610",Uster,Schulanlage Pünt,Schule: Kindergarten,halb-öffentlicher Raum (eingeschränkte resp. reglementierte Zugänglichkeit),,http://www.uster.ch/de/bildung/primarschule/kindergarten/?action=showschule&schule_id=355
